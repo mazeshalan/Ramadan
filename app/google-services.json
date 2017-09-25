@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "640769598170",
+    "firebase_url": "https://ramadan-cfec7.firebaseio.com",
+    "project_id": "ramadan-cfec7",
+    "storage_bucket": "ramadan-cfec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640769598170:android:5c01abd9798b9afb",
+        "android_client_info": {
+          "package_name": "com.mazen.app.ramadan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640769598170-6j09tn678jjn4h3t3a1nlsjm8rrjrocu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBW603sHLn34S460c9BO3Zj0rqaZGYPas"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

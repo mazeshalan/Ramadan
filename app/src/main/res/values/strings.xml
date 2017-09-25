@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">دليلك في رمضان</string>
+    <string-array name="index">
+        <item>فضل شهر رمضان</item>
+        <item>30 - نصيحة في شهر رمضان</item>
+        <item>أعذار الصائم</item>
+        <item>مبطلات الصيام</item>
+        <item>مايباح للصائم</item>
+        <item>ليله القدر</item>
+        <item>حدث في رمضان</item>
+        <item>من دعاء النبي</item>
+    </string-array>
+    <string name="banner_ad_unit_id">ca-app-pub-3307144932330597/5608974863</string>
+</resources>
